@@ -1,2 +1,2 @@
-# CS362HW3
-Repository for HW3 in CS362
+Hey! This is my read me file! 
+[Here's the flowchart for the code!](https://github.com/Jayson22341/CS362HW3/blob/main/HW1%20Flowchart.png)
